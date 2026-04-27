@@ -10,17 +10,12 @@ of monitoring devices.
 -  in test 1, replace the data file .inp folloew the senario leak pipe 113,163,191,249,249,295 in the code to generate the dataset for each leak
 -  also replace the name output file csv for each test .inp
 
-inp_file = 'Net3.inp'
-
-save_file = 'demand_scenarios.csv'
-
-csv_file = 'demand_scenarios.csv'
-
-inp_file = '113.inp'          
-
-demand_csv = 'demand_scenarios.csv'
-
-output_dataset = '113_TimeSeries_LeakArea_Dataset.csv'
+inp_file = 'Net3.inp' <br>
+save_file = 'demand_scenarios.csv' <br>
+csv_file = 'demand_scenarios.csv' <br>
+inp_file = '113.inp' <br>         
+demand_csv = 'demand_scenarios.csv' <br>
+output_dataset = '113_TimeSeries_LeakArea_Dataset.csv' <br>
 
 **Run test 2 to have the final**
 -  do the same replace data .csv for each leak test
