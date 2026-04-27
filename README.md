@@ -11,10 +11,15 @@ of monitoring devices.
 -  also replace the name output file csv for each test .inp
 
 inp_file = 'Net3.inp'
+
 save_file = 'demand_scenarios.csv'
+
 csv_file = 'demand_scenarios.csv'
+
 inp_file = '113.inp'          
+
 demand_csv = 'demand_scenarios.csv'
+
 output_dataset = '113_TimeSeries_LeakArea_Dataset.csv'
 
 **Run test 2 to have the final**
