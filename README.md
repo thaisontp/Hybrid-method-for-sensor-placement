@@ -22,4 +22,4 @@ output_dataset = '113_TimeSeries_LeakArea_Dataset.csv' <br>
   
 csv_file = '113_TimeSeries_LeakArea_Dataset.csv' 
 
-**Run test 3 for heeatmap**  
+**Run test 3 for heatmap**  
