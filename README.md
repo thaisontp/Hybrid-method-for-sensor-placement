@@ -7,7 +7,7 @@ of monitoring devices.
 
 
 **Run test 1 to create dataset**
--  in test 1, replace the data file .inp folloew the senario leak pipe 113,163,191,249,249,295 in the code to generate the dataset for each leak
+-  in test 1, replace the data file .inp follow the senario leak pipe 113,163,191,249,249,295 in the code to generate the dataset for each leak
 -  also replace the name output file csv for each test .inp
 
 inp_file = 'Net3.inp' <br>
